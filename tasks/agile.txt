@@ -1,0 +1,19 @@
+v0: basic functionality
+    [ ] basic database
+    [ ] basic matching
+    [x] no frontend
+
+v1: improved functionality + website
+    [ ] improved database
+    [ ] improved matching
+    [ ] data viz
+    [ ] website
+
+v2: v1 + mobile app
+    [ ] create flutter app
+    [ ] maintain website
+
+v3: fully functional
+    [ ] full database
+    [ ] improve website
+    [ ] improve app

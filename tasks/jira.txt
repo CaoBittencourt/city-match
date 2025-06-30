@@ -1,0 +1,16 @@
+[ ] basic database schema
+[ ] sqlite and bash scripts to create database
+[ ] gather temperature data
+[ ] basic matching module
+[ ] gather pluviometric data
+[ ] advanced matching module
+[ ] gather language data
+[ ] gather economic data
+[ ] gather data on local fauna
+[ ] gather data on local flora
+[ ] visual mode matching
+[ ] index database
+[x] upload repo
+[x] setup conda environment
+[x] create goals
+[x] create basic project structure

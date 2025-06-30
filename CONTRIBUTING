@@ -1,0 +1,17 @@
+keep it simple, stupid
+write everything in english
+use camelCase for everything
+ok to use UPPER_SNAKE_CASE for global variables
+ok to use global variables
+DON'T USE CLASSES
+DON'T USE CLASSES
+DON'T USE CLASSES
+use functional polymorphism
+ok to use "classes" for functional polymorphism
+avoid state (always prefer functional patterns)
+avoid using java
+avoid using javascript
+avoid using typescript
+avoid using serverless
+tdd is not allowed
+no git flow

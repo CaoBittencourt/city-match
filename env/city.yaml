@@ -1,0 +1,39 @@
+name: city
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    - jupyter
+    - pandas
+    - polars
+    # - scikit-learn
+    - numpy
+    - matplotlib
+    - plotly
+    - plotnine
+    # - mcts
+    - pyreadr
+  - r-base
+  - r-essentials
+  - r-tidyverse
+  - r-devtools
+  # - r-psych
+  # - r-igraph
+  # - r-ggraph
+  - r-box
+  - r-styler
+  # - r-mgsub
+  # - r-cubature
+  # - r-Rsolnp
+  # - r-bda
+  # - r-plotly
+  # - r-betareg
+  # - r-VGAM
+  # - r-rstanarm
+  # - r-bayesplot
+  # - r-np
+  # - r-pracma
+  # - r-ks
+  # - r-flexclust
