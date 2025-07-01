@@ -1,4 +1,4 @@
-# `city-match`: find the perfect city for you to live!
+# `city-match`: find the perfect city for you to live in!
 
 *City Match* (temporary name) is a piece of open-source software made to help its users find the best city in which to live, given their requirements and preferences.
 
